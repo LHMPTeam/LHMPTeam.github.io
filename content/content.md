@@ -15,19 +15,21 @@
 
 > *"Mr. Salieri sends his regards."* - Vito Scaletta
 
-Lost Heaven Multiplayer (LHMP) was a fan-made modification of legendary video game *Mafia:The City of Lost Heaven*, produced by *Illusion Software* (today *2K Czech*) and released in 2002. The aim of modification was to enhance the original game with multiplayer expecience, similar to other popular multiplayer modifications such as [SA-MP](http://sa-mp.com).
+Lost Heaven Multiplayer (LHMP) was a fan-made modification of legendary video game *Mafia:The City of Lost Heaven*, produced by *Illusion Software* (today *2K Czech*) and released in 2002. The aim of modification was to enhance the original game with multiplayer experience, similar to other popular multiplayer modifications such as [SA-MP](http://sa-mp.com).
 
-The project initialy started in August 2013 as a hobby attempt of 3 young boys from Slovakia and ended in Summer 2015. The reason was a lack of time due. As for today, **project is no longer officialy supported**, and neither technical, nor mentor support is provided by the original team. 
+The project initialy started in August 2013 as a hobby attempt of 3 young boys from Slovakia and ended in Summer 2015. The reason was a lack of time due. As for today, **project is no longer officially supported**, and neither technical, nor mentor support is provided by the original team. 
 
 This page has been set up in order to preserve our story and to provide a guide to eager Mafia players that would like to at least try it on their own.
 
 ### Story
 The project was programmed in *C++* with chunks of *inline Assembler*. Due to lack of software engineering skills and experience (that time we were 18-, 16- and 15-years old),  the created code resulted in a messy composition of classes connected using a single Singleton. Therefore, there is no ambition to continue the currect project with completely rewriting it from the scratch.
+
 ### How to get it work
 The project files can be found in our official [GitHub repo](https://github.com/LHMPTeam/lhmp-old). The compilation process **requires** some skills with using *Make*, *Visual Studio* and *C++*.
 
 ### Binaries
 No official binary archives are provided, yet. However, this may change once when someone dares to leave the comfort zone.
+
 ### Authors and contacts
 Below we mention the names of original 3 authors.
 
@@ -67,5 +69,4 @@ Here you can find some preserved memories from those glory days.
 ### How to improve this webpage
 In case you were a part of our community and you would feel that there was something that should appear here, fork us at [GitHub](https://github.com/LHMPTeam/LHMPTeam.github.io) and it may happen.
 </div>
-
 
