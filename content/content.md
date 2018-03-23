@@ -1,16 +1,18 @@
+<script src="//slusneslovensko.github.io/slusneslovensko.min.js" async type="text/javascript"></script>
+
 # Lost Heaven Multiplayer
 
 
-#### Table of Content
-1. [About](#About)
-2. [Story](#Story)
-3. [How to get it work](#How-to-get-it-work)
-4. [Binaries](#Binaries)
-5. [Technical](#Technical)
-6. [Authors and contacts](#Authors-and-contancts)
+1. * [About](#about)
+2. * [Story](#story)
+3. * [How to get it work](#how-to-get-it-work)
+4. * [Binaries](#binaries)
+5. * [Authors and contacts](#authors-and-contacts)
+6. * [Useful links](#useful-links)
+7. * [Media](#media)
+8. * [How to improve this webpage](#how-to-improve-this-webpage)
 
-
-### About
+## About
 **Welcome to the official website of Lost Heaven Multiplayer.**
 
 > *"Mr. Salieri sends his regards."* - Vito Scaletta
@@ -21,16 +23,16 @@ The project initialy started in August 2013 as a hobby attempt of 3 young boys f
 
 This page has been set up in order to preserve our story and to provide a guide to eager Mafia players that would like to at least try it on their own.
 
-### Story
+## Story
 The project was programmed in *C++* with chunks of *inline Assembler*. Due to lack of software engineering skills and experience (that time we were 18-, 16- and 15-years old),  the created code resulted in a messy composition of classes connected using a single Singleton. Therefore, there is no ambition to continue the currect project with completely rewriting it from the scratch.
 
-### How to get it work
+## How to get it work
 The project files can be found in our official [GitHub repo](https://github.com/LHMPTeam/lhmp-old). The compilation process **requires** some skills with using *Make*, *Visual Studio* and *C++*.
 
-### Binaries
+## Binaries
 No official binary archives are provided, yet. However, this may change once when someone dares to leave the comfort zone.
 
-### Authors and contacts
+## Authors and contacts
 Below we mention the names of original 3 authors.
 
  1. [Roman Dobias (Romop5)](https://github.com/Romop5)
@@ -40,12 +42,12 @@ Below we mention the names of original 3 authors.
 Credits also go to all guys who helped us with testing, to **Qbt** from Finland, who created a *Qt-based* server browser and improved quality of project in its final days.
 
 
-### Useful links
+## Useful links
 
 * [FB Page](https://www.facebook.com/lhmpmode/)
 * [Mafiascene.com](http://mafiascene.com)
 
-### Media
+## Media
 Here you can find some preserved memories from those glory days.
 
 <div class="container">
@@ -66,7 +68,10 @@ Here you can find some preserved memories from those glory days.
 </div>
 </div>
 
-### How to improve this webpage
+## How to improve this webpage
 In case you were a part of our community and you would feel that there was something that should appear here, fork us at [GitHub](https://github.com/LHMPTeam/LHMPTeam.github.io) and it may happen.
+
+<br><br><br>
 </div>
+
 
