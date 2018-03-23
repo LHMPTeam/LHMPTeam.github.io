@@ -1,4 +1,3 @@
-<script src="//slusneslovensko.github.io/slusneslovensko.min.js" async type="text/javascript"></script>
 
 # Lost Heaven Multiplayer
 
